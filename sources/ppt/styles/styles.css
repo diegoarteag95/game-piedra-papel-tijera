@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contenedor__poderes input{
+    width: 100px;
+}
+.contenedor__versus img{
+    width: 100px;
+}
+.contenedor__versus{
+    display: flex;
+    justify-content: center;
+}
